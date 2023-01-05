@@ -1,0 +1,22 @@
+Hi ${FNAME} ${LNAME},{br/>br/>
+<br/>
+
+Welcome to Our Company,Your Completed Registration.<br/>
+
+<br/>
+
+Please unlock your account using below details.<br/>
+
+<br/>
+
+Temporary Pwd:{Temp_PWd}<br/>
+
+<br/>
+
+<a href="http://localhost:8080/unlock?email">Click here to unlock</a><br/>
+
+<br/>
+
+Thanks,<br/>
+
+Rajasekhar<.<br/>	
